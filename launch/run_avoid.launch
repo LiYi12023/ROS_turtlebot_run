@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="try_getinf" type="run_avoid" name="run_avoid" output="screen">
+    </node>
+</launch>
