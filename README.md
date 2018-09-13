@@ -16,7 +16,7 @@ Add the environment variables and build the program.
 
 **3. 選擇程式  Choose the code**   
 
-程式 |用處 
+程式 Program|介紹 Introduction 
 :------:|:----------:   
 go_straight.cpp| 使turtlebot不斷前進  
  -|Let turtlebot go straight    
