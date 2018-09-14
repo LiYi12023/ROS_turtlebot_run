@@ -18,14 +18,10 @@ Add the environment variables and build the program.
 
 程式 Program|介紹 Introduction 
 :------:|:----------:   
-go_straight.cpp| 使turtlebot不斷前進  
- -|Let turtlebot go straight    
-try_getinf.cpp|獲得Bumper的資訊 
- -|Get the bumper information 
-run_avoid.cpp|使turtlebot不斷前進，並在碰撞後轉向 
- -|Let turtlebot go straight and change direction when bumper was hit
-run_avoid.launch|使用roslaunch開啟
- -|Open by the roslaunch   
+go_straight.cpp| 使turtlebot不斷前進 Let turtlebot go straight    
+try_getinf.cpp|獲得Bumper的資訊 Get the bumper information 
+run_avoid.cpp|使turtlebot不斷前進，並在碰撞後轉向 Let turtlebot go straight and change direction when bumper was hit
+run_avoid.launch|使用roslaunch開啟 Open by the roslaunch   
 ## 測試 Test
 **1. go_straight**  
 `$ roslaunch turtlebot_gazebo turtlebot_world.launch`  
